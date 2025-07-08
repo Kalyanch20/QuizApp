@@ -47,5 +47,5 @@ Contributions, bug reports, and ideas are welcome! Feel free to open a Pull Requ
 
 ### 👤 Author
 **Kalyan CH**  
-🖥️ Built with ❤️ using Python  
+🖥️ Built with Tkinter using Python, GUI  
 📧 Reach me via LinkedIn / GitHub
